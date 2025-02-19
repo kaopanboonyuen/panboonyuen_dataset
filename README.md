@@ -18,7 +18,7 @@ If you find this dataset useful, please cite it as follows:
   author = {Teerapong Panboonyuen},
   title = {Public AI Practice Datasets},
   year = {2025},
-  howpublished = {\url{https://github.com/kaopanboonyuen/panboonyuen_dataset}}
+  howpublished = https://github.com/kaopanboonyuen/panboonyuen_dataset
 }
 ```
 
